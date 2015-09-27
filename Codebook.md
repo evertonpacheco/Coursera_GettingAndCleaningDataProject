@@ -78,21 +78,18 @@ The columns/variables join between xtrain, ytrain e subject_train
 The columns/variables join between xtest, ytest e subject_test
 </li>
   <li>
-the join between train and test rows
+The join between train and test rows
 </li>
   <li>
 Extracts the measurements with mean and standard deviation from feature
 </li>
   <li>
-merge between with activity lables across Y column on newdataset
+Merge betwen with activity lables across Y column on newdataset
 </li>
   <li>
 Numeric conversion in Value column from newdataset dataframe
 </li>  
-  <li>
-features.txt
-</li>
-  <li>
-group and summarise for tidydata
+<li>
+Group and summarise for tidydata
 </li>
 </ul>
